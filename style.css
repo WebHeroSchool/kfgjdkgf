@@ -5,3 +5,11 @@
 .title {
   font-weight: 900;
 }
+
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+head {
+  font-family: 'Rowdies', cursive;
+}
